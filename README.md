@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+﻿Basic To-do list with React functionality.  
+
+TODO/Nice-to-have's
+======
+	-Login/DB functionality
+	-UI Cleanup *asap*
+
+
 
 ## Available Scripts
 
